@@ -1,5 +1,4 @@
 # strategy-to-execution-toolkit
-# Strategy to Execution Toolkit
 
 A practical collection of frameworks, templates, playbooks, and AI-enabled tools for turning enterprise strategy into measurable execution.
 
