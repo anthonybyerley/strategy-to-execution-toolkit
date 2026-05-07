@@ -1,4 +1,4 @@
-# strategy-to-execution-toolkit
+# Strategy-to-execution-toolkit
 
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Methodology](https://img.shields.io/badge/methodology-strategy_execution-orange)
