@@ -1,6 +1,6 @@
 # strategy-to-execution-toolkit
 
-A practical collection of frameworks, templates, playbooks, and AI-enabled tools for turning enterprise strategy into measurable execution.
+Welcome to the BestStrat strategy-to-execution toolkit. A practical collection of frameworks, templates, playbooks, and AI-enabled tools for turning enterprise strategy into measurable execution.
 
 ## Purpose
 
