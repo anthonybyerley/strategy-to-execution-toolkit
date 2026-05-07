@@ -1,8 +1,9 @@
 # strategy-to-execution-toolkit
 
 ![Status](https://img.shields.io/badge/status-active-success)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Framework](https://img.shields.io/badge/framework-enterpris
+![Methodology](https://img.shields.io/badge/methodology-strategy_execution-orange)
+![Focus](https://img.shields.io/badge/focus-enterprise_transformation-purple)
+![Built By](https://img.shields.io/badge/built%20by-BestStrat-black)
 
 Welcome to the BestStrat strategy-to-execution toolkit. A practical collection of frameworks, templates, playbooks, and AI-enabled tools for turning enterprise strategy into measurable execution.
 
