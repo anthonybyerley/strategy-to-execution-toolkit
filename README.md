@@ -4,6 +4,7 @@
 ![Methodology](https://img.shields.io/badge/methodology-strategy_execution-orange)
 ![Focus](https://img.shields.io/badge/focus-enterprise_transformation-purple)
 ![Built By](https://img.shields.io/badge/built%20by-BestStrat-black)
+![LlinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Byerley-blue?logo=linkedin)](https://www.linkedin.com/company/beststrat/?viewAsMember=true)
 
 Welcome to the BestStrat strategy-to-execution toolkit. A practical collection of frameworks, templates, playbooks, and AI-enabled tools for turning enterprise strategy into measurable execution.
 
